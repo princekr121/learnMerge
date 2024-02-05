@@ -17,4 +17,9 @@ public class Bike {
     public void setCost(double cost) {
         this.cost = cost;
     }
+
+    private int calculatePrice(){
+        return 4094 ;
+    }
+
 }
