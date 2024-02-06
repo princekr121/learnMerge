@@ -22,6 +22,13 @@ public class Application {
     public void setWorking(boolean working) {
         this.working = working;
     }
+
+
+    // change done on feature branch
+
+    private int substract(){
+        return 5 - 5 ;
+    }
     // change done on main for mr conflict
 
     private int sum(){
