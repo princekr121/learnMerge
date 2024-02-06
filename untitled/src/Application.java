@@ -22,4 +22,5 @@ public class Application {
     public void setWorking(boolean working) {
         this.working = working;
     }
+    // change done on main for mr conflict
 }
