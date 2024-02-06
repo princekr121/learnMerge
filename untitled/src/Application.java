@@ -11,4 +11,15 @@ public class Application {
     public boolean isWorking() {
         return working;
     }
+
+    // changes added to verify rebasing
+
+
+    public void setDuration(int duration) {
+        this.duration = duration;
+    }
+
+    public void setWorking(boolean working) {
+        this.working = working;
+    }
 }
