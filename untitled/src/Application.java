@@ -29,4 +29,10 @@ public class Application {
     private int substract(){
         return 5 - 5 ;
     }
+    // change done on main for mr conflict
+
+    private int sum(){
+        return 5 + 5 ;
+    }
+
 }
