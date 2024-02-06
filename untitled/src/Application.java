@@ -23,4 +23,9 @@ public class Application {
         this.working = working;
     }
     // change done on main for mr conflict
+
+    private int sum(){
+        return 5 + 5 ;
+    }
+
 }
